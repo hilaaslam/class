@@ -10,10 +10,10 @@ margin: 0
 .banner-text{
     text-align: center ;
     position: relative ;
-    top: 290px ;
-    color: #4b2002 ;
+    top: 210px ;
+    color: #b46c39 ;
     font-size: 110px ;
     font-weight: 400 ;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: sans-serif ;
 }
 
