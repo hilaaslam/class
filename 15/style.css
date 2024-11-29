@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+
+.banner{
+    background: url('images/XU_Cat3.png');
+    background-position: center ;
+    background-size: cover ;
+    height: 95vh ; 
+}
+
+.banner img {
+    width: 300px ;
+    color: white ;
+}
+
+.banner-text{
+    text-align: center ;
+    position: relative ;
+    top: 130px ;
+    left: 60px ;
+    font-weight: 300 ;
+    font-family: sans-serif ;
+}
+
+.banner-text h1{
+    font-size: 60px ;
+}
+
+.banner-text p{
+    font-size: 40px ;
+}
