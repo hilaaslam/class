@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.banner{
+    background: url('images/XU_Cat3.png') ;
+    background-position: center ;
+    background-size: cover ;
+    height: 95vh ; 
+    width: 100% ;
+}
+
+.banner img {
+    width: 250px ;
+    color: white ;
+}
+
+.banner-text{
+    text-align: center ;
+    position: relative ;
+    top: 130px ;
+    left: 60px ;
+    font-weight: 300 ;
+    font-family: sans-serif ;
+}
+
+.banner-text h1{
+    font-size: 60px ;
+}
+
+.banner-text p{
+    font-size: 40px ;
+}
+
+.main-div-about{
+    display: flex ;
+    width: 1350 ;
+    height: 700px ;
+    background-color: rgb(50, 106, 226);
+}
+
+.div-text{
+    width: 50% ;
+    padding: 12% ;
+
+}
+
+.div-img{
+    width: 50% ;
+
+}
+
+.div-text-tag h1{
+    font-size: 45px ;
+    text-align: center ;
+    margin-bottom: 2%;
+}
+
+.div-text-tag p{
+    font-size: 25px ;
+    text-align: center ;
+}
+
+.div-text-tag h1:hover{
+    color: white ;
+    font-size: 55px ;
+    cursor: pointer;
+}
